@@ -19,4 +19,16 @@ within a sandbox to keep dangerous commands away from production and be certain 
 sensed or set to be brought online. Use these documents as a guide, and the IBM documents as manuals. One to show you the way, and the other to
 tell you about what you'll pass along the journey with details.
 
+I didn't receive direct training when starting zVM, so what I had to work with were the official IBM documents. These contained a lot of info I
+didn't understand at the time that got in the way of trying things out. It was hard to identify what was useful and what could wait to be 
+defined, researched etc. What I did get were helpful suggestions and advice for tasks to perform or projects to undertake. For example a 
+coworker would be say, "Hey it would be cool if we had a Batch File System (BFS)." So I set out to set up and play with a BFS. I would first
+do my best to bumble through the task- copying the entirety of any text that mentioned BFS from the IBM documents and cutting (Ctrl+X) anything
+I didn't immmediately understand into a separate document for researching and defining. I would then take the usable portion and whatever commands
+were provided and attempt the task until I could reach the end without errors and test the system. Once I could do this I started over and recorded
+the process with OBS Studios. I then take the video and watch, marking down a numbered lists of succinct step/task descriptions. Then passing over
+each task I would add detailed steps and snip images from the video to provide context. Once everything was written in plain text, another pass
+to add syntax structure and command examples, finally another pass for color coding and clarity. Afterwards I handed the guide off to another person
+to point out anything confusing and elaborate.
+
 I do not intend to continuously update these. Feel free to download, modify or customize as them as you see fit- all I ask is I be mentioned.
