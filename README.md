@@ -31,4 +31,5 @@ each task I would add detailed steps and snip images from the video to provide c
 to add syntax structure and command examples, finally another pass for color coding and clarity. Afterwards I handed the guide off to another person
 to point out anything confusing and elaborate.
 
-I do not intend to continuously update these. Feel free to download, modify or customize as them as you see fit- all I ask is I be mentioned.
+I do not intend to continuously update these. Feel free to download, modify or customize as them as you see fit- all I ask is I be mentioned. The DRCT
+Execs were written by Alan Wise, credit for those go to him.
