@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jorduin
+- 👋 Hi, I’m @Jorduin, Jordan Anders
 - 👀 I've been learning zVM and decided to share the tools I made for myself to help guide me through administrative and installation tasks.
 - 🌱 I'm currently working on zVM 7.3 and learning about SUSE.
 - 💞️ It is my hope that these guides will provide usable rails for others to get from Point A to Point B, learning via first-hand experience 
@@ -13,3 +13,10 @@ Some commands are more powerful than others and can have devastating results. Pl
 If you need to edit System Config for example, make a copy and edit the copy. Then replace the active System Config after you've done checks.
 If you want to use Define MDISK, do so from a sandbox and preferably *to* a fresh second level OS that is not IPL'd. Without these layers of protection
 the possible damage is great.
+
+For the best training experience try treating these as a group as though they were a workbook with activites to be completed. Perform these tasks from
+within a sandbox to keep dangerous commands away from production and be certain that devices you would not want to accidentally affect are not
+sensed or set to be brought online. Use these documents as a guide, and the IBM documents as manuals. One to show you the way, and the other to
+tell you about what you'll pass along the journey with details.
+
+I do not intend to continuously update these. Feel free to download, modify or customize as them as you see fit- all I ask is I be mentioned.
