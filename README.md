@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jorduin, Jordan Anders
+- 👋 Hi, I’m @Jorduin, Jordan A.
 - 👀 I've been learning zVM and decided to share the tools I made for myself to help guide me through administrative and installation tasks.
 - 🌱 I'm currently working on zVM 7.3 and learning about SUSE.
 - 💞️ It is my hope that these guides will provide usable rails for others to get from Point A to Point B, learning via first-hand experience 
@@ -38,4 +38,4 @@ to add syntax structure and command examples, finally another pass for color cod
 to point out anything confusing and elaborate.
 
 I do not intend to continuously update these. Feel free to download, modify or customize them as you see fit- all I ask is I be mentioned. The DRCT
-Execs were written by Alan Wise, credit for those go to him.
+Execs were written by Alan W., credit for those go to him.
