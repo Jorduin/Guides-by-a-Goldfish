@@ -8,10 +8,12 @@
       getting information about zVM to be cumbersome as IBM PDFs are neither guides nor manuals but instead an odd ghoulash of the two. This is
       more comprehensive than what I've written but also muddies the water in my opinion for both experienced users as well as new. I hope that
       these simplified guides can serve as instructions, as well as training material for those just looking to learn. 
+
 **IMPORTANT**
 Check your shop's zVM version to be sure it is on 7.3 when following general instructions and understand that the, "Second Level Upgrade" instructions
 are written for a system that was on 6.4 moving to 7.3. Confirm with changelogs the differences between your own version and 7.3 if it is not 7.3
 and take into account anything that may have moved, been renamed, removed or changed in some way as this can have unexpected impacts.
+
 **IMPORTANT**
 Some commands are more powerful than others and can have devastating results. Please remember to submit those with as much protection as possible.
 If you need to edit System Config for example, make a copy and edit the copy. Then replace the active System Config after you've done checks.
