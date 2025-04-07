@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jorduin, Jordan A.
+-  Hi, I’m @Jorduin, Jordan A.
 - 👀 I've been learning zVM and decided to share the tools I made for myself to help guide me through administrative and installation tasks.
 - 🌱 I'm currently working on zVM 7.3 and learning about SUSE.
 - 💞️ It is my hope that these guides will provide usable rails for others to get from Point A to Point B, learning via first-hand experience 
@@ -25,9 +25,9 @@ within a sandbox to keep dangerous commands away from production and be certain 
 sensed or set to be brought online. Use these documents as a guide, and the IBM documents as manuals. One to show you the way, and the other to
 tell you about what you'll pass along the journey with details.
 
-I didn't receive direct training when starting zVM, so what I had to work with were the official IBM documents. These contained a lot of info I
+I didn't receive direct training when starting zVM. What I had to work with were the official IBM documents. These contained a lot of info I
 didn't understand at the time that got in the way of trying things out. It was hard to identify what was useful and what could wait to be 
-defined, researched etc. What I did get were helpful suggestions and advice for tasks to perform or projects to undertake. For example a 
+defined, researched etc. I did receive helpful suggestions and advice for tasks to perform or projects to undertake. For example, a 
 coworker would be say, "Hey it would be cool if we had a Batch File System (BFS)." So I set out to set up and play with a BFS. I would first
 do my best to bumble through the task- copying the entirety of any text that mentioned BFS from the IBM documents and cutting (Ctrl+X) anything
 I didn't immmediately understand into a separate document for researching and defining. I would then take the usable portion and whatever commands
