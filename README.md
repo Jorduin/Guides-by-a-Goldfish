@@ -20,11 +20,13 @@ If you need to edit System Config for example, make a copy and edit the copy. Th
 If you want to use Define MDISK, do so from a sandbox and preferably *to* a fresh second level OS that is not IPL'd. Without these layers of protection
 the possible damage is great.
 
+Sidenote:
 For the best training experience try treating these as a group as though they were a workbook with activites to be completed. Perform these tasks from
 within a sandbox to keep dangerous commands away from production and be certain that devices you would not want to accidentally affect are not
 sensed or set to be brought online. Use these documents as a guide, and the IBM documents as manuals. One to show you the way, and the other to
 tell you about what you'll pass along the journey with details.
 
+Sidenote:
 I didn't receive direct training when starting zVM. What I had to work with were the official IBM documents. These contained a lot of info I
 didn't understand at the time that got in the way of trying things out. It was hard to identify what was useful and what could wait to be 
 defined, researched etc. I did receive helpful suggestions and advice for tasks to perform or projects to undertake. For example, a 
@@ -37,5 +39,6 @@ each task I would add detailed steps and snip images from the video to provide c
 to add syntax structure and command examples, finally another pass for color coding and clarity. Afterwards I handed the guide off to another person
 to point out anything confusing and elaborate.
 
+##
 I do not intend to continuously update these. Feel free to download, modify or customize them as you see fit- all I ask is I be mentioned. The DRCT
 Execs were written by Alan W., credit for those go to him.
